@@ -1,1 +1,1 @@
-# html-blogpost
+# html-ejs-challenge
